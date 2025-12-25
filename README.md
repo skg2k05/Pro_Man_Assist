@@ -53,18 +53,20 @@ This project is meant for **learning and demonstration purposes** to understand 
 
 ## 📦 Installation & Setup
 
-### 1️⃣ Clone the Repository
-```bash
+### 1️⃣ Clone the Repository ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
+
 git clone https://github.com/skg2k05/Pro_Man_Assist.git
 cd Pro_Man_Assist
 
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
-```bash
+
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 
 ### 3️⃣ Install Dependencies
 pip install -r requirements.txt
+
+--- 
 
 ### 🔑 Getting Your Google Gemini API Key (Free)
 
