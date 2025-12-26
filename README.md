@@ -61,7 +61,8 @@ cd Pro_Man_Assist
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
 
 python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+source venv/bin/activate   
+# On Windows: venv\Scripts\activate
 
 ### 3️⃣ Install Dependencies
 pip install -r requirements.txt
