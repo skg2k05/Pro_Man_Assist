@@ -53,7 +53,7 @@ This project is meant for **learning and demonstration purposes** to understand 
 
 ## 📦 Installation & Setup
 
-### 1️⃣ Clone the Repository ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
+### 1️⃣ Clone the Repository 
 
 git clone https://github.com/skg2k05/Pro_Man_Assist.git
 cd Pro_Man_Assist
@@ -85,6 +85,8 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 ### ▶️ Run the Application
 streamlit run app.py
 The app will open in your browser (usually at http://localhost:8501).
+
+--- 
 
 ### 🧪 How to Use
 
